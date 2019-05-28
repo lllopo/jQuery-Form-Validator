@@ -1,14 +1,10 @@
-# jQuery Form Validator [DISCONTINUED]
+# jQuery Form Validator [INTERNAL BUGFIX SUPPORT]
 
 *Validation framework that let's you configure, rather than code, your validation logic.*
 
 I started writing this plugin back in 2009 and it has given me much joy over the years. But all good things must come to an end and now it's time for this plugin to pull in its oars and go down with history.
 
 **This plugin is no longer being developed!** It supports jQuery v. 1.8 >= 2.2.4. No pull requests will become merged in but feel free to fork and do whatever you like!
-
-[![Travis](https://travis-ci.org/victorjonsson/jQuery-Form-Validator.svg)](https://travis-ci.org/victorjonsson/jQuery-Form-Validator/builds/)
-
-[![npm version](https://badge.fury.io/js/jquery-form-validator.svg)](https://www.npmjs.com/package/jquery-form-validator)
 
 *Usage example*
 
